@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/DigitalDetox/static/css/main.c3843f3d.chunk.css",
-    "main.js": "/DigitalDetox/static/js/main.86d2ec02.chunk.js",
-    "main.js.map": "/DigitalDetox/static/js/main.86d2ec02.chunk.js.map",
+    "main.js": "/DigitalDetox/static/js/main.26b392b2.chunk.js",
+    "main.js.map": "/DigitalDetox/static/js/main.26b392b2.chunk.js.map",
     "runtime-main.js": "/DigitalDetox/static/js/runtime-main.681439cf.js",
     "runtime-main.js.map": "/DigitalDetox/static/js/runtime-main.681439cf.js.map",
-    "static/js/2.46930c7f.chunk.js": "/DigitalDetox/static/js/2.46930c7f.chunk.js",
-    "static/js/2.46930c7f.chunk.js.map": "/DigitalDetox/static/js/2.46930c7f.chunk.js.map",
+    "static/js/2.1f11e36b.chunk.js": "/DigitalDetox/static/js/2.1f11e36b.chunk.js",
+    "static/js/2.1f11e36b.chunk.js.map": "/DigitalDetox/static/js/2.1f11e36b.chunk.js.map",
     "index.html": "/DigitalDetox/index.html",
-    "precache-manifest.f70c363eaaf3c1e96392e7ad980ecbb8.js": "/DigitalDetox/precache-manifest.f70c363eaaf3c1e96392e7ad980ecbb8.js",
+    "precache-manifest.27237c06fb33b259daf0ba638f5a295d.js": "/DigitalDetox/precache-manifest.27237c06fb33b259daf0ba638f5a295d.js",
     "service-worker.js": "/DigitalDetox/service-worker.js",
     "static/css/main.c3843f3d.chunk.css.map": "/DigitalDetox/static/css/main.c3843f3d.chunk.css.map",
+    "static/media/bensound-slowmotion.mp3": "/DigitalDetox/static/media/bensound-slowmotion.e0e75e5b.mp3",
     "static/media/logo.png": "/DigitalDetox/static/media/logo.a33f8036.png"
   },
   "entrypoints": [
     "static/js/runtime-main.681439cf.js",
-    "static/js/2.46930c7f.chunk.js",
+    "static/js/2.1f11e36b.chunk.js",
     "static/css/main.c3843f3d.chunk.css",
-    "static/js/main.86d2ec02.chunk.js"
+    "static/js/main.26b392b2.chunk.js"
   ]
 }

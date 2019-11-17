@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48ec7d9abb04c9c33449b03e65225e41",
+    "revision": "830e753c5c38ed74ab2d1a76a5b222bb",
     "url": "/DigitalDetox/index.html"
   },
   {
-    "revision": "d4bf995b012cbfbc0d6e",
+    "revision": "420e1a124ad322be02b2",
     "url": "/DigitalDetox/static/css/main.c3843f3d.chunk.css"
   },
   {
-    "revision": "a8b18c8d8a4f10b17456",
-    "url": "/DigitalDetox/static/js/2.46930c7f.chunk.js"
+    "revision": "6e8abf3a875176fc0fb6",
+    "url": "/DigitalDetox/static/js/2.1f11e36b.chunk.js"
   },
   {
-    "revision": "d4bf995b012cbfbc0d6e",
-    "url": "/DigitalDetox/static/js/main.86d2ec02.chunk.js"
+    "revision": "420e1a124ad322be02b2",
+    "url": "/DigitalDetox/static/js/main.26b392b2.chunk.js"
   },
   {
     "revision": "e3bf04ff4ae83d2ee8c6",
     "url": "/DigitalDetox/static/js/runtime-main.681439cf.js"
+  },
+  {
+    "revision": "e0e75e5b7f2eaa57ab39b3a6e5a40f0b",
+    "url": "/DigitalDetox/static/media/bensound-slowmotion.e0e75e5b.mp3"
   },
   {
     "revision": "a33f8036b6dcdea310f03d2781b1fcb5",
