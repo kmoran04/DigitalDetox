@@ -5,6 +5,10 @@ import InputBar from './InputBar';
 import Intro from './Intro';
 import { Logo } from './styles';
 import logo from './logo.png';
+var music = require("./bensound-slowmotion.mp3");
+//import Sound from 'react-sound';
+var Sound = require('react-sound').default;
+
 
 
 
@@ -65,8 +69,9 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <Logo href='https://www.kristenemoran.com' target='_blank'><img src={logo} alt="logo" height="80px" /> </Logo>
+      <Sound url={music}  playStatus={Sound.status.PLAYING} loop={true} autoLoad={true}/>
 
+      <Logo href='https://www.kristenemoran.com' target='_blank'><img src={logo} alt="logo" height="80px" /> </Logo>
       {showMoreStars6 ? <div id="stars"> </div> : null}
       {showMoreStars3 ? <div id="starsMore"> </div> : null}
       <div id="stars2" > </div>
