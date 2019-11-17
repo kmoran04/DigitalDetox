@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "830e753c5c38ed74ab2d1a76a5b222bb",
+    "revision": "491012fff389f28e33d3970822a38207",
     "url": "/DigitalDetox/index.html"
   },
   {
-    "revision": "420e1a124ad322be02b2",
+    "revision": "4a7b64bfbe92d1931dc4",
     "url": "/DigitalDetox/static/css/main.c3843f3d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DigitalDetox/static/js/2.1f11e36b.chunk.js"
   },
   {
-    "revision": "420e1a124ad322be02b2",
-    "url": "/DigitalDetox/static/js/main.26b392b2.chunk.js"
+    "revision": "4a7b64bfbe92d1931dc4",
+    "url": "/DigitalDetox/static/js/main.6f2a23bc.chunk.js"
   },
   {
     "revision": "e3bf04ff4ae83d2ee8c6",

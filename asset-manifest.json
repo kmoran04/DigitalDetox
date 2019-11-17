@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DigitalDetox/static/css/main.c3843f3d.chunk.css",
-    "main.js": "/DigitalDetox/static/js/main.26b392b2.chunk.js",
-    "main.js.map": "/DigitalDetox/static/js/main.26b392b2.chunk.js.map",
+    "main.js": "/DigitalDetox/static/js/main.6f2a23bc.chunk.js",
+    "main.js.map": "/DigitalDetox/static/js/main.6f2a23bc.chunk.js.map",
     "runtime-main.js": "/DigitalDetox/static/js/runtime-main.681439cf.js",
     "runtime-main.js.map": "/DigitalDetox/static/js/runtime-main.681439cf.js.map",
     "static/js/2.1f11e36b.chunk.js": "/DigitalDetox/static/js/2.1f11e36b.chunk.js",
     "static/js/2.1f11e36b.chunk.js.map": "/DigitalDetox/static/js/2.1f11e36b.chunk.js.map",
     "index.html": "/DigitalDetox/index.html",
-    "precache-manifest.27237c06fb33b259daf0ba638f5a295d.js": "/DigitalDetox/precache-manifest.27237c06fb33b259daf0ba638f5a295d.js",
+    "precache-manifest.4b8615c9fc5e2950c82cc6dded005188.js": "/DigitalDetox/precache-manifest.4b8615c9fc5e2950c82cc6dded005188.js",
     "service-worker.js": "/DigitalDetox/service-worker.js",
     "static/css/main.c3843f3d.chunk.css.map": "/DigitalDetox/static/css/main.c3843f3d.chunk.css.map",
     "static/media/bensound-slowmotion.mp3": "/DigitalDetox/static/media/bensound-slowmotion.e0e75e5b.mp3",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.681439cf.js",
     "static/js/2.1f11e36b.chunk.js",
     "static/css/main.c3843f3d.chunk.css",
-    "static/js/main.26b392b2.chunk.js"
+    "static/js/main.6f2a23bc.chunk.js"
   ]
 }
