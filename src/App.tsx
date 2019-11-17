@@ -75,7 +75,6 @@ const App: React.FC = () => {
       {showMoreStars6 ? <div id="stars"> </div> : null}
       {showMoreStars3 ? <div id="starsMore"> </div> : null}
       <div id="stars2" > </div>
-      <div id="stars3" className="stars3"> </div>
 
       <header className="App-header">
         {showInput ? <InputBar text={inputText} placeholder="type your thoughts here" onKeyPress={onKeyPress} onChange={onChange} showText={showText}/>  : <Intro onComplete={onComplete} /> }       
