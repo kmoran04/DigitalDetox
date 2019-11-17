@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "619d284c64d0a1aebf618be99220fbc5",
+    "revision": "48ec7d9abb04c9c33449b03e65225e41",
     "url": "/DigitalDetox/index.html"
   },
   {
